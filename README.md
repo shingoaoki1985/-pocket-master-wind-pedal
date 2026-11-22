@@ -22,7 +22,9 @@ Pocket MasterをiPadにBluetoothキーボードとして接続し、本体の **
 
 ホーム画面で `VALUE/VOL` を長押しして `PEDAL` を選びます。iPadの「設定 → Bluetooth」で `Pocket Pedal` または `Pocket Master BLE` を選び、ポケマスに `BLUETOOTH CONNECTED` と表示されたら操作できます。
 
-![接続状態と前後のページ操作を表示するPEDAL画面](assets/pedal.jpg)
+[![接続状態と前後のページ操作を表示するPEDAL画面](assets/pedal.jpg)](https://youtube.com/shorts/4C6Ks2ScNWE)
+
+**[譜めくり動画を見る（YouTube Shorts）](https://youtube.com/shorts/4C6Ks2ScNWE)**
 
 ## インストール
 
